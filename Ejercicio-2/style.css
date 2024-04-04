@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#mensajePantalla {
+    margin-top: 25px;
+}
+
+#imagenTransporte {
+    margin-top: 25px;
+    max-width: 350px;
+    height: auto;
+}
+
+input {
+    width: 300px;
+}
